@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41168'
     url: http://www.gutenberg.org/2009/agents/41168
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41409#Old-RomeA-Handbook-to-the-Ruins-of-the-City-and-the-Campagna
 gutenberg_issued: '2012-11-19'
 gutenberg_type: Text
 identifiers:
